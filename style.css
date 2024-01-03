@@ -421,13 +421,7 @@ nav .fa-solid{
         cursor: pointer;
     }
 
-    #menu{
-        position: absolute;
-        top: 25;
-        left: 25px;
-        cursor: pointer;
-        display: block;
-    }
+
 
     .sub-title{
         font-size: 40px;
