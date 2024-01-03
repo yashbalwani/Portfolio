@@ -421,7 +421,7 @@ nav .fa-solid{
         cursor: pointer;
     }
 
-    .menu{
+    #menu{
         position: absolute;
         top: 25;
         left: 25px;
